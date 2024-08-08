@@ -19,3 +19,8 @@ Installations:
               pip install urllib3
 
 Or use the requirements.yaml to install the dependencies in your environment by pip install -r requirements.yaml
+
+Core pages of the App are below:
+
+![Page2](https://github.com/user-attachments/assets/e6389f89-f02f-4699-9535-aecf6c451dc4)
+
