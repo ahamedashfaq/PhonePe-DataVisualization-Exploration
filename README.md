@@ -9,13 +9,13 @@ A simple UI tool to explore the data found from PhonePe Pulse data repository an
 
 Installations:
 
-pip install gitdb
-pip install GitPython
-pip install numpy
-pip install pandas
-pip install streamlit
-pip install streamlit-navigation-bar
-pip install streamlit-option-menu 
-pip install urllib3
+              pip install gitdb
+              pip install GitPython
+              pip install numpy
+              pip install pandas
+              pip install streamlit
+              pip install streamlit-navigation-bar
+              pip install streamlit-option-menu 
+              pip install urllib3
 
 Or use the requirements.yaml to install the dependencies in your environment by pip install -r requirements.yaml
